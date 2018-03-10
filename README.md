@@ -1,6 +1,6 @@
 # Awesome Vuforia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" align="right" width="100">](https://vuforia.com/)
+[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" align="right" width="200">](https://vuforia.com/)
 
 > A collection of awesome things regarding Vuforia AR SDK.
 
