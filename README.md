@@ -48,7 +48,7 @@ Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile device
 ## Blogs
 
 ## Courses
-- [Building an AR Experience in Unity and Vuforia](https://www.pluralsight.com/courses/unity-vuforia-building-ar-experience) This will teach you everything you need to create your own AR apps using Unity and Vuforia.
+- [Building an AR Experience in Unity and Vuforia](https://www.pluralsight.com/courses/unity-vuforia-building-ar-experience) - This will teach you everything you need to create your own AR apps using Unity and Vuforia.
 
  
 --- 
