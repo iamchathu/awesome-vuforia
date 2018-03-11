@@ -18,9 +18,6 @@ Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile device
 ## Contents
 
 - [Vuforia](#vuforia)
-- [Libraries](#libraries)
-    - [Unity](#unity)
-    - [Java](#java)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Videos](#videos)
