@@ -1,6 +1,6 @@
 # Awesome Vuforia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" align="right" width="300">](https://vuforia.com/)
+[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" align="right" width="250">](https://vuforia.com/)
 
 >⚡️ A collection of awesome things regarding Vuforia AR SDK.
 
@@ -34,7 +34,7 @@ Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile device
 ## Articles
 
 ## Videos
-- [How To Markerless AR with Vuforia and GPS Based Augmented Reality](hhttps://www.youtube.com/watch?v=X6djed8e4n0) - Tutorial on how to create Markerless AR with Vuforia and GPS Based Augmented Reality.
+- [How To Markerless AR with Vuforia and GPS Based Augmented Reality](https://www.youtube.com/watch?v=X6djed8e4n0) - Tutorial on how to create Markerless AR with Vuforia and GPS Based Augmented Reality.
 
 ## Presentations
 
