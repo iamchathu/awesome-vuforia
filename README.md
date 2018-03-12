@@ -35,7 +35,8 @@ Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile device
 
 ## Videos
 - [How To Markerless AR with Vuforia and GPS Based Augmented Reality](https://www.youtube.com/watch?v=X6djed8e4n0) - Tutorial on how to create Markerless AR with Vuforia and GPS Based Augmented Reality.
-- [Designing AR apps for Real-World and objects](https://www.youtube.com/watch?v=nRwgS1hEOUY) - A talk from the Develop Track at AWE USA 2017.
+- [Designing AR apps for Real-World and objects](https://www.youtube.com/watch?v=nRwgS1hEOUY) - Talk from the Develop Track at AWE USA 2017.
+- [What’s New With Vuforia AR in Unity 2017.3 Beta](https://www.youtube.com/watch?v=Vt8y8kJ73no) - Talk from the Developer Track at AWE Europe 2017.
 
 ## Presentations
 
