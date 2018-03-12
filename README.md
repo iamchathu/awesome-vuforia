@@ -1,6 +1,6 @@
 # Awesome Vuforia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" align="right" width="250">](https://vuforia.com/)
+[<img src="https://raw.githubusercontent.com/iamchathu/awesome-vuforia/master/vuforia-color.png" align="right" width="200">](https://vuforia.com/)
 
 >⚡️ A collection of awesome things regarding Vuforia AR SDK.
 
@@ -37,6 +37,7 @@ Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile device
 - [How To Markerless AR with Vuforia and GPS Based Augmented Reality](https://www.youtube.com/watch?v=X6djed8e4n0) - Tutorial on how to create Markerless AR with Vuforia and GPS Based Augmented Reality.
 - [Designing AR apps for Real-World and objects](https://www.youtube.com/watch?v=nRwgS1hEOUY) - Talk from the Develop Track at AWE USA 2017.
 - [What’s New With Vuforia AR in Unity 2017.3 Beta](https://www.youtube.com/watch?v=Vt8y8kJ73no) - Talk from the Developer Track at AWE Europe 2017.
+- [Unite Austin 2017 - Intro to Vuforia AR Integration in Unity 2017.2](https://www.youtube.com/watch?v=yIvQSrPEtIY) - This talk introduces developers to the techniques and workflows required to create AR experiences.
 
 ## Presentations
 
